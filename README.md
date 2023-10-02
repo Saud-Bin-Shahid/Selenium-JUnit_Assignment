@@ -1,4 +1,4 @@
-# Selenium-JUnit_Assignment
+# Selenium JUnit Assignment
 
 ## About This Project 
 In this repository, there is a Selenium JUnit project that automates a webform.
