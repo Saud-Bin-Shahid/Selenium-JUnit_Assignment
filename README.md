@@ -1,6 +1,7 @@
 # Selenium-JUnit_Assignment
 
-## In this repository, there is a Selenium JUnit project that automates a webform.
+## About This Project 
+In this repository, there is a Selenium JUnit project that automates a webform.
 
 ## Webform URL 
 https://www.digitalunite.com/practice-webform-learners
